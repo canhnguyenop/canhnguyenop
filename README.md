@@ -9,16 +9,15 @@ On the way Site Reliability Engineer with software engineering experience as wel
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=canhnguyenop" alt="canhnguyenop" /> </p>
 
 
-<h3 align="left">Language and Contribution:</h3>
+## 🚀 Language and Contribution
 <p align="left">
   <a href="https://elixir-lang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraformio" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=canhnguyenop&show_icons=true&locale=en&layout=compact" alt="canhnguyenop" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=canhnguyenop&show_icons=true&locale=en" alt="canhnguyenop" /></p>
-
-
+## :trophy: Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canhnguyenop)](https://github.com/canhnguyenop)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=canhnguyenop&show_icons=true&theme=radical)
 
 
 
